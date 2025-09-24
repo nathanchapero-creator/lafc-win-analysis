@@ -17,6 +17,8 @@ This project uses publicly available soccer data. All datasets were accessed man
 
 - **Notes**  
   - Dates were standardized to `YYYY-MM-DD`.  
-  - Opponent names were normalized to match across datasets.  
+  - Opponent names were normalized to match across datasets. 
+  - Row counts were validated against official season totals.
+  - 2020 MLS season was shortened due to COVID (23 matches instead of 34) and included repeat fixtures (LAFC vs LA Galaxy three times).
   - Only MLS regular season + playoff matches included (Vela’s 2024 cameo excluded).  
 
