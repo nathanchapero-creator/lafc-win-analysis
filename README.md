@@ -24,12 +24,12 @@ Description: Player-level match logs including date, opponent, competition, and 
 
 | Season |
 |--------|
-| [2018](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/saison/2017#gesamt) |
-| [2019](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/saison/2018#gesamt) |
-| [2020](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/saison/2019#gesamt) |
-| [2021](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/saison/2020#gesamt) |
-| [2022](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/saison/2021#gesamt) |
-| [2023](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/saison/2022#gesamt) |
+| [2018](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/plus/0?saison=2017) |
+| [2019](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/plus/0?saison=2018) |
+| [2020](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/plus/0?saison=2019) |
+| [2021](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/plus/0?saison=2020) |
+| [2022](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/plus/0?saison=2021) |
+| [2023](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/plus/0?saison=2022) |
 
 
 - **Notes**  
