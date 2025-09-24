@@ -9,14 +9,14 @@ This project uses publicly available soccer data. All datasets were accessed man
 Source: [FBRef](https://fbref.com/)  
 Description: Match-level results including date, opponent, goals for/against, and outcome.
 
-| Season | Link |
-|--------|------|
-| 2018 | [LAFC Match Data](https://fbref.com/en/squads/81d817a3/2018/Los-Angeles-FC-Stats) |
-| 2019 | [LAFC Match Data](https://fbref.com/en/squads/81d817a3/2019/Los-Angeles-FC-Stats) |
-| 2020 | [LAFC Match Data](https://fbref.com/en/squads/81d817a3/2020/Los-Angeles-FC-Stats) |
-| 2021 | [LAFC Match Data](https://fbref.com/en/squads/81d817a3/2021/Los-Angeles-FC-Stats) |
-| 2022 | [LAFC Match Data](https://fbref.com/en/squads/81d817a3/2022/Los-Angeles-FC-Stats) |
-| 2023 | [LAFC Match Data](https://fbref.com/en/squads/81d817a3/2023/Los-Angeles-FC-Stats) |
+| Season |
+|--------|
+| [2018](https://fbref.com/en/squads/81d817a3/2018/Los-Angeles-FC-Stats) |
+| [2019](https://fbref.com/en/squads/81d817a3/2019/Los-Angeles-FC-Stats) |
+| [2020](https://fbref.com/en/squads/81d817a3/2020/Los-Angeles-FC-Stats) |
+| [2021](https://fbref.com/en/squads/81d817a3/2021/Los-Angeles-FC-Stats) |
+| [2022](https://fbref.com/en/squads/81d817a3/2022/Los-Angeles-FC-Stats) |
+| [2023](https://fbref.com/en/squads/81d817a3/2023/Los-Angeles-FC-Stats) |
 
 - **Carlos Vela Match Appearances (2018–2023)**  
   Source: [Transfermarkt](https://www.transfermarkt.us/)  
