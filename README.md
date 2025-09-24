@@ -5,7 +5,7 @@ LAFC data analysis project tracking win percentages and trends over 2018-2023 ML
 
 This project uses publicly available soccer data. All datasets were accessed manually in September 2025.
 
-**LAFC Match Logs (2018–2023)**  
+- **LAFC Match Logs (2018–2023)**  
 Source: [FBRef](https://fbref.com/)  
 Description: Match-level results including date, opponent, goals for/against, and outcome.
 
@@ -18,10 +18,19 @@ Description: Match-level results including date, opponent, goals for/against, an
 | [2022](https://fbref.com/en/squads/81d817a3/2022/Los-Angeles-FC-Stats) |
 | [2023](https://fbref.com/en/squads/81d817a3/2023/Los-Angeles-FC-Stats) |
 
-- **Carlos Vela Match Appearances (2018–2023)**  
-  Source: [Transfermarkt](https://www.transfermarkt.us/)  
-  Example URL (2018 season): https://www.transfermarkt.us/...  
-  Description: Player-level appearances with minutes played, substitutions, and competition.
+- **Carlos Vela Match Logs (2018–2023)**  
+Source: [Transfermarkt](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773)  
+Description: Player-level match logs including date, opponent, competition, and minutes played.
+
+| Season |
+|--------|
+| [2018](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/saison/2017#gesamt) |
+| [2019](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/saison/2018#gesamt) |
+| [2020](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/saison/2019#gesamt) |
+| [2021](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/saison/2020#gesamt) |
+| [2022](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/saison/2021#gesamt) |
+| [2023](https://www.transfermarkt.co.uk/carlos-vela/leistungsdaten/spieler/35773/saison/2022#gesamt) |
+
 
 - **Notes**  
   - Dates were standardized to `YYYY-MM-DD`.  
