@@ -40,3 +40,33 @@ Description: Player-level match logs including date, opponent, competition, and 
   - Only MLS regular season + playoff matches included (Vela’s 2024 cameo excluded).
   - Non-MLS competitions (US Open Cup, CCL, friendlies) were excluded from the cleaned dataset to focus the analysis on MLS results only.  
 
+
+  <details>
+<summary>Data Cleaning Notes (LAFC Match Logs)</summary>
+
+**Removed columns (not relevant to analysis):**  
+`Time`, `Day`, `Poss` (possession), `Attendance`, `Captain`, `Formation`, `Opp Formation`, `Referee`, `Match Report`, `Notes`.
+
+**Kept columns (with datatypes):**  
+- `Date` (date)  
+- `Comp` (text)  
+- `Round` (text)  
+- `Venue` (text)  
+- `Result` (text)  
+- `GF` (whole number)  
+- `GA` (whole number)  
+- `Opponent` (text)  
+- `xG` (decimal)  
+- `xGA` (decimal)  
+
+**Created columns:**  
+- `GD` (whole number) → `GF - GA`  
+- `xGD` (decimal) → `xG - xGA`  
+- `Season` (whole number) → competition year  
+
+**Other adjustments:**  
+- Reordered columns for clarity (date and season first, followed by match stats).  
+
+</details>
+
+
