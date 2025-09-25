@@ -42,7 +42,7 @@ Description: Player-level match logs including date, opponent, competition, and 
 
 
 <details>
-  <summary>Data Cleaning Notes (LAFC Match Logs)</summary>
+  <summary>## Data Cleaning Notes (LAFC Match Logs)</summary>
 
   **Removed columns (not relevant to analysis):**  
   `Time`, `Day`, `Poss` (possession), `Attendance`, `Captain`, `Formation`, `Opp Formation`, `Referee`, `Match Report`, `Notes`.
