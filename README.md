@@ -33,40 +33,46 @@ Description: Player-level match logs including date, opponent, competition, and 
 
 
 - **Notes**  
-  - Dates were standardized to `YYYY-MM-DD`.  
-  - Opponent names were normalized to match across datasets. 
   - Row counts were validated against official season totals.
   - 2020 MLS season was shortened due to COVID (23 matches instead of 34) and included repeat fixtures (LAFC vs LA Galaxy three times).
   - Only MLS regular season + playoff matches included (Vela’s 2024 cameo excluded).
-  - Non-MLS competitions (US Open Cup, CCL, friendlies) were excluded from the cleaned dataset to focus the analysis on MLS results only.  
-
+  - Non-MLS competitions (US Open Cup, CCL, friendlies) were excluded from the cleaned dataset to focus the analysis on MLS results only.
+  - 2020 MLS is Back Group Stage games included due to also counting as regular season matches for the MLS Regular Season.
 
 <details>
   <summary>Data Cleaning Notes (LAFC Match Logs)</summary>
 
-  **Removed columns (not relevant to analysis):**  
-  `Time`, `Day`, `Poss` (possession), `Attendance`, `Captain`, `Formation`, `Opp Formation`, `Referee`, `Match Report`, `Notes`.
+  **Removed columns:**  
+  *Time*, *Day*, *Poss*, *Attendance*, *Captain*, *Formation*, *Opp Formation*, *Referee*, *Match Report*, and *Notes*.
 
-  **Kept columns (with datatypes):**  
-  - `Date` (date)  
-  - `Comp` (text)  
-  - `Round` (text)  
-  - `Venue` (text)  
-  - `Result` (text)  
-  - `GF` (whole number)  
-  - `GA` (whole number)  
-  - `Opponent` (text)  
-  - `xG` (decimal)  
-  - `xGA` (decimal)  
+  **Kept columns:**  
+  *Date*, *Comp*, *Round*, *Opponent*, *Venue*, *Result*, *GF*, *GA*, *xG*, and *xGA*.
 
   **Created columns:**  
-  - `GD` (whole number) → `GF - GA`  
-  - `xGD` (decimal) → `xG - xGA`  
-  - `Season` (whole number) → competition year  
+  - *Composite_Key* — combination of Date, Matchday, and Season  
+  - *Matchday*  
+  - *Season*  
+  - *GD* (Goal Difference)  
+  - *xGD* (Expected Goal Difference)
+
+  **Carlos Vela match data adjustments:**  
+  - Only retained *Minutes_Played*  
+  - Created a *Composite_Key* (Matchday + Year of Date)  
+  - Added *Did_Vela_Play* (binary indicator for match participation)  
+  - Joined Vela data to FBRef dataset using a **left join** on *Composite_Key*  
+
+  **Final merged dataset (2018–2023 MLS seasons):**  
+  - Applied conditional formatting to the **Result** column  
+    - 🟩 *Green* for Wins (W)  
+    - ⚪ *Gray* for Draws (D)  
+    - 🟥 *Red* for Losses (L)  
+  - Applied conditional formatting to **Vela_Minutes_Played**  
+    - 🟩 *Green* for ≥ 85 minutes  
+    - 🟨 *Yellow* for 65–84 minutes  
+    - 🟥 *Red* for ≤ 64 minutes  
 
   **Other adjustments:**  
-  - Reordered columns for clarity (date and season first, followed by match stats).  
+  - Reordered columns for clarity (Date and Season first, followed by match stats).  
 
 </details>
-
 
