@@ -1,5 +1,20 @@
 # lafc-win-analysis
-LAFC data analysis project tracking win percentages and trends over 2018-2023 MLS seasons. Further analysis on Carlos Vela's impact on the club's win percentage.
+
+## What is it?
+  * Analysis of Carlos Vela's time at LAFC, with a special focus on the 2021 MLS season
+
+## Why I analyzed it: 
+  * LAFC is my favorite football (AKA soccer) club, so I decided to look into the club's history to derive insights that I hadn't previously noticed. I specifically wanted to analyze Carlo Vela's time, as he is my favorite player and also widely considered the club's most iconic player.
+
+## Tools Used: 
+  * Excel, Power Query
+
+## Brief Insight Summary:
+  * My analysis found the 2021 MLS season to be a significant outlier, filled with clear signs of underperformance in both xG (expected goals) and xGA (expected goals against). I found that underperformance spiked primarily while Carlos Vela was on the pitch compared to when he was not playing.
+
+## In General Terms:
+ * LAFC's 2021 season was marred by poor finishing, unlucky defensive performances, and constant injuries to their star players, such as Carlos Vela. Vela was unable to remain healthy throughout the season, frequently missing matches. LAFC as a whole was never able to retain consistency.
+
 
 ## 📊 Data Sources
 
