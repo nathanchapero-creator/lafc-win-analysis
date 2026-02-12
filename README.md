@@ -67,11 +67,13 @@ Description: Player-level match logs including date, opponent, competition, and 
   - *Composite_Key* — combination of Date, Matchday, and Season  
   - *Matchday*  
   - *Season*  
-  - *GD* (Goal Difference)  
-  - *xGD* (Expected Goal Difference)
+  - *GD* - Goal Difference  
+  - *xGD* - Expected Goal Difference
 
   **Created Helper Columns:**
-  - dhad
+  - *Display_Year* - To display season year
+  - *Zero_Line_Helper* - Straight line positioned at "0" on X-axis
+  - **
 
   **Carlos Vela match data adjustments:**  
   - Only retained *Minutes_Played*  
