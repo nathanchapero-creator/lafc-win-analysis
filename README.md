@@ -70,6 +70,9 @@ Description: Player-level match logs including date, opponent, competition, and 
   - *GD* (Goal Difference)  
   - *xGD* (Expected Goal Difference)
 
+  **Created Helper Columns:**
+  - dhad
+
   **Carlos Vela match data adjustments:**  
   - Only retained *Minutes_Played*  
   - Created a *Composite_Key* (Matchday + Year of Date)  
@@ -82,9 +85,9 @@ Description: Player-level match logs including date, opponent, competition, and 
     - ⚪ *Gray* for Draws (D)  
     - 🟥 *Red* for Losses (L)  
   - Applied conditional formatting to **Vela_Minutes_Played**  
-    - 🟩 *Green* for ≥ 85 minutes  
-    - 🟨 *Yellow* for 65–84 minutes  
-    - 🟥 *Red* for ≤ 64 minutes  
+    - 🟩 *Green* for ≥ 70 minutes  
+    - 🟨 *Yellow* for 31–69 minutes  
+    - 🟥 *Red* for ≤ 30 minutes  
 
   **Other adjustments:**  
   - Reordered columns for clarity (Date and Season first, followed by match stats).  
