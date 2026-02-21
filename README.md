@@ -13,9 +13,19 @@
   * The 2021 MLS season was marked the most notable outlier season, filled with clear signs of underperformance in both xGF (expected goals for) and xGA (expected goals against). I found that underperformance spiked primarily while Carlos Vela was on the pitch compared to when he was not playing.
     
 
-### Analysis:
+## Analysis:
  * LAFC's 2021 season was marred by poor finishing, unlucky defensive performances, and constant injuries to their star players, such as Carlos Vela. Vela was unable to remain healthy throughout the season, frequently missing matches. LAFC as a whole was never able to retain consistency.
 
+### *LAFC's trajectory*
+ * LAFC's performance during Carlos Vela's tenure :
+
+<img width="738" height="439" alt="LAFC_Graph#1" src="https://github.com/user-attachments/assets/bbaf3bf4-1620-4848-a665-d07a53ac8f50" />
+
+* Seasons such as 2018, 2019, and 2022, with xGD and GD aligning closely, indicate closely matching levels of performance across an entire MLS season; LAFC performed near expectations.
+* Seasons 2020 and 2021 demonstrated clear signs of underperformance, with LAFC not performing up to standards.
+* With the 2020 MLS season disrupted heavily due to the COVID-19 pandemic, inconsistency wasn't just expected; it was built in, with a major mid-season pause, Visa issues, and player safety issues.
+* The largest gap in performance came in the 2021 season, with an xGD of **+0.62**, but a GD of just **+0.06**, a **0.56 difference.**
+* I began the analysis on Carlos Vela's possible impact on LAFC's 2021 underperformance.
 
 
 
