@@ -11,23 +11,23 @@
 
 ### Brief Insight Summary:
   * The 2021 MLS season was marked the most notable outlier season, filled with clear signs of underperformance in both xGF (expected goals for) and xGA (expected goals against). I found that underperformance spiked primarily while Carlos Vela was on the pitch compared to when he was not playing.
-    
-
-## Analysis:
- * LAFC's 2021 season was marred by poor finishing, unlucky defensive performances, and constant injuries to their star players, such as Carlos Vela. Vela was unable to remain healthy throughout the season, frequently missing matches. LAFC as a whole was never able to retain consistency.
 
 ### *LAFC's trajectory*
- * LAFC's performance during Carlos Vela's tenure :
+ * LAFC's performance during Carlos Vela's tenure:
 
 <img width="738" height="439" alt="LAFC_Graph#1" src="https://github.com/user-attachments/assets/bbaf3bf4-1620-4848-a665-d07a53ac8f50" />
 
-* Seasons such as 2018, 2019, and 2022, with xGD and GD aligning closely, indicate closely matching levels of performance across an entire MLS season; LAFC performed near expectations.
-* Seasons 2020 and 2021 demonstrated clear signs of underperformance, with LAFC not performing up to standards.
-* With the 2020 MLS season disrupted heavily due to the COVID-19 pandemic, inconsistency wasn't just expected; it was built in, with a major mid-season pause, Visa issues, and player safety issues.
-* The largest gap in performance came in the 2021 season, with an xGD of **+0.62**, but a GD of just **+0.06**, a **0.56 difference.**
-* I began the analysis on Carlos Vela's possible impact on LAFC's 2021 underperformance.
+* **Trend Followers:** LAFC's performance followed expectations during the 2018, 2019, and 2022 seasons.
+* **The "COVID" Year:** 2020 was filled with visa, player, and safety issues following the COVID-19 pandemic, with LAFC naturally suffering from inconsistent schedules and disruptions.
+* **The Big Anomaly:** 2021 contained the largest underperformance in Vela's LAFC career, with a **0.56 difference**. How much of a role did Carlos Vela's injury-plagued year play?
 
+### **Carlos Vela's 2021 Season**
+ * LAFC's 2021 season was marred by poor finishing, unlucky defensive performances, and constant injuries to their star players, such as Carlos Vela.
+ * Vela was unable to remain healthy throughout the season, frequently missing matches and rarely able to go the full 90 minutes. He ended the season with just 20 games played, with 5 goals and 5 assists, a far cry from his MVP season just two years earlier (36 goals, 11 assists).
 
+<img width="815" height="502" alt="LAFC_Graph#2" src="https://github.com/user-attachments/assets/3de4e88c-dce4-45c8-a274-b83241205627" />
+
+<img width="646" height="428" alt="LAFC_Graph#3" src="https://github.com/user-attachments/assets/0e645fb1-012b-496a-b4a2-5db25e3ec53e" />
 
 
 
