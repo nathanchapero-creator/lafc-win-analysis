@@ -12,6 +12,7 @@
 ### Brief Insight Summary:
   * The 2021 MLS season was marked the most notable outlier season, filled with clear signs of underperformance in both xGF (expected goals for) and xGA (expected goals against). I found that underperformance spiked primarily while Carlos Vela was on the pitch compared to when he was not playing.
 
+## Analysis
 ### *LAFC's trajectory*
  * LAFC's performance during Carlos Vela's tenure:
 
