@@ -10,7 +10,7 @@
   * Excel, Power Query
 
 ### Brief Insight Summary:
-  * The 2021 MLS season was marked the most notable outlier season, filled with clear signs of underperformance in both xGF (expected goals for) and xGA (expected goals against). I found that underperformance spiked primarily while Carlos Vela was on the pitch compared to when he was not playing.
+  * The 2021 MLS season was marked as the most notable outlier season, filled with clear signs of underperformance in both xGF (expected goals for) and xGA (expected goals against). I found that underperformance spiked primarily while Carlos Vela was on the pitch compared to when he was not playing.
 
 ## Analysis
 ### *LAFC's trajectory*
@@ -26,16 +26,17 @@
  * LAFC's 2021 season was marred by poor finishing, unlucky defensive performances, and constant injuries to their star players, such as Carlos Vela.
  * Vela was unable to remain healthy throughout the season, frequently missing matches and rarely able to go the full 90 minutes. He ended the season with just 20 games played, with 5 goals and 5 assists, a far cry from his MVP season just two years earlier (36 goals, 11 assists).
 
-<img width="815" height="502" alt="LAFC_Graph#2" src="https://github.com/user-attachments/assets/3de4e88c-dce4-45c8-a274-b83241205627" />
+<img width="730" height="459" alt="LAFC_Graph#2" src="https://github.com/user-attachments/assets/c027b5c9-0bf7-4bc5-a881-8979edfb1877" />
 
-<img width="646" height="428" alt="LAFC_Graph#3" src="https://github.com/user-attachments/assets/0e645fb1-012b-496a-b4a2-5db25e3ec53e" />
-
-
+<img width="697" height="460" alt="LAFC_Graph#3" src="https://github.com/user-attachments/assets/b708b32a-237e-4080-9e0c-0bd3f8d35850" />
 
 
+* Without Vela on the pitch, LAFC had an xGF and xGA of **+0.03** and **0.06** per game, respectively, indicating that their attack and defense met expectations.
+* With Vela on the pitch, LAFC had an xGF and xGA of **-0.66** and **0.27** respectively, indicating underperformance in both attacking and defending.
 
 
-
+### Conclusion
+* d
 
 
 
