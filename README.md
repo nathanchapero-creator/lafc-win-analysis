@@ -1,10 +1,10 @@
 # lafc-win-analysis
 
 ### What is it?
-  * Analysis of Carlos Vela's player tenure at Los Angeles Football Club (LAFC), with a special focus on the 2021 MLS season.
+  * Analysis of Carlos Vela's tenure at Los Angeles Football Club (LAFC), with a special focus on the 2021 MLS season.
 
 ### Why I analyzed it: 
-  * As an LAFC and soccer fan, analyzing my favorite player's tenure at the club made perfect sense to allow me to showcase my data analysis skills. During his tenure (2018-2023), Carlos Vela played in over 150 MLS matches, winning multiple titles and a championship. My goal was to asess whether or not Carlos Vela had a measurable correlation with LAFC's success. This includes measurements in win percentage, xGF (expected goals for), xGA (expected goals against), and xGD (expected goal difference).
+  * As an LAFC and soccer fan, analyzing my favorite player's tenure at the club made perfect sense to allow me to showcase my data analysis skills. During his tenure (2018-2023), Carlos Vela played in over 150 MLS matches, winning multiple titles and a championship. My goal was to assess whether or not Carlos Vela had a measurable correlation with LAFC's success. This includes measurements in win percentage, xGF (expected goals for), xGA (expected goals against), and xGD (expected goal difference).
     
 ### Tools Used: 
   * Excel, Power Query
@@ -13,6 +13,7 @@
   * The 2021 MLS season was marked as the most notable outlier season, filled with clear signs of underperformance in both xGF (expected goals for) and xGA (expected goals against). I found that underperformance spiked primarily while Carlos Vela was on the pitch compared to when he was not playing.
 
 ## Analysis
+
 ### *LAFC's trajectory*
  * LAFC's performance during Carlos Vela's tenure:
 
@@ -28,16 +29,19 @@
 
 <img width="730" height="459" alt="LAFC_Graph#2" src="https://github.com/user-attachments/assets/c027b5c9-0bf7-4bc5-a881-8979edfb1877" />
 
-<img width="697" height="460" alt="LAFC_Graph#3" src="https://github.com/user-attachments/assets/b708b32a-237e-4080-9e0c-0bd3f8d35850" />
+***A Stark Contrast:** With Vela on the pitch, LAFC displayed the same strong underlying numbers of their 2022 championship season, but failed to live up to expectations. While this does not confirm that Vela was responsible for all of LAFC's struggles, it does suggest a high likelihood of missed opportunities or unlucky defending from either Vela or his teammates.
 
+### The Big Picture:
+
+*LAFC's 2021 Season, broken down by when Vela either wasn't or was on the pitch:
+
+<img width="697" height="460" alt="LAFC_Graph#3" src="https://github.com/user-attachments/assets/b708b32a-237e-4080-9e0c-0bd3f8d35850" />
 
 * Without Vela on the pitch, LAFC had an xGF and xGA of **+0.03** and **0.06** per game, respectively, indicating that their attack and defense met expectations.
 * With Vela on the pitch, LAFC had an xGF and xGA of **-0.66** and **0.27** respectively, indicating underperformance in both attacking and defending.
 
-
 ### Conclusion
-* d
-
+* Overall, Carlos Vela's tenure at LAFC was filled with highs (2019, 2022) and lows (2020, 2021). The underlying xGD numbers suggest that Vela's tenure should have been filled with even more success than he already had managed to achieve, but LAFC heavily underperformed in 2020 and 2021. 2020 involved a heavily disrupted season due to the COVID-19 pandemic, but the 2021 season wasn't as cut and dry. Vela's 2021 season was plagued by numerous injuries that led to him playing just 59% of LAFC's domestic matches in 2021, compared to 92% of regular season and playoff matches just two seasons earlier (2019).
 
 
 ## 📊 Data Sources
