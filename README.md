@@ -19,7 +19,6 @@
 
 <img width="738" height="439" alt="LAFC_Graph#1" src="https://github.com/user-attachments/assets/bbaf3bf4-1620-4848-a665-d07a53ac8f50" />
 
-
 * **Trend Followers:** LAFC's performance followed expectations during the 2018, 2019, and 2022 seasons.
 * **The "COVID" Year:** 2020 was filled with visa, player, and safety issues following the COVID-19 pandemic, with LAFC naturally suffering from inconsistent schedules and disruptions.
 * **The Big Anomaly:** 2021 contained the largest underperformance in Vela's LAFC career, with a **0.56 difference**. How much of a role did Carlos Vela's injury-plagued year play?
@@ -30,7 +29,6 @@
 
 <img width="730" height="459" alt="LAFC_Graph#2" src="https://github.com/user-attachments/assets/c027b5c9-0bf7-4bc5-a881-8979edfb1877" />
 
-
 ***A Stark Contrast:** With Vela on the pitch, LAFC displayed the same strong underlying numbers of their 2022 championship season, but failed to live up to expectations. While this does not confirm that Vela was responsible for all of LAFC's struggles, it does suggest a high likelihood of missed opportunities or unlucky defending from either Vela or his teammates.
 
 ### The Big Picture:
@@ -38,7 +36,6 @@
 *LAFC's 2021 Season, broken down by when Vela either wasn't or was on the pitch:
 
 <img width="697" height="460" alt="LAFC_Graph#3" src="https://github.com/user-attachments/assets/b708b32a-237e-4080-9e0c-0bd3f8d35850" />
-
 
 * Without Vela on the pitch, LAFC had an xGF and xGA of **+0.03** and **0.06** per game, respectively, indicating that their attack and defense met expectations.
 * With Vela on the pitch, LAFC had an xGF and xGA of **-0.66** and **0.27** respectively, indicating underperformance in both attacking and defending.
