@@ -1,21 +1,24 @@
-# lafc-win-analysis
+# lafc-expected-goals-variance
 
 ### What is it?
   * Analysis of Carlos Vela's tenure at Los Angeles Football Club (LAFC), with a special focus on the 2021 MLS season.
+  * Does LAFC perform better when Vela plays?
+  * Did team performance align with expected metrics?
 
 ### Tools Used: 
-  * Excel, Power Query
+  * **Power Query** - data cleaning, transformations, joins, and data aggregation.
+  * **Excel** - pivot tables, conditional formatting, visualizations.
 
 ### Notes:
-* All goal difference deviations are calculated as actual minus expected (GF − xGF and GA − xGA) on a per-match basis.
-* xGD and GD are averages on a per-match basis.
-* Analysis includes only MLS regular season and playoff matches.
+* Deviations calculated per match (GF − xGF and GA − xGA).
+* xGD and GD averaged per match.
+* Dataset restricted to MLS regular season and playoff matches.
 
 ### Why I analyzed it: 
-  * During his tenure (2018-2023), Carlos Vela played in over 150 MLS matches, winning multiple Supporters' Shield titles and an MLS Cup championship. The goal is to assess whether Carlos Vela had a measurable impact on LAFC's success. This includes measurements in win percentage, xGF (expected goals for), xGA (expected goals against), and xGD (expected goal difference).
+  * The goal is to assess whether Carlos Vela had a measurable impact on LAFC's success. This includes measurements in win percentage, xGF (expected goals for), xGA (expected goals against), and xGD (expected goal difference).
 
 ### Brief Insight Summary:
-  * The 2021 MLS season was the most notable outlier season, with LAFC underperforming relative to their xGF (expected goals for) and xGA (expected goals against) metrics. Underperformance was most prevalent while Vela was on the pitch.
+  * The 2021 MLS season contained the largest underperformance relative to xGD. Once broken down, underperformance was most prevalent while Vela was on the pitch.
 
 ## Analysis
 
