@@ -9,10 +9,10 @@
 ### Notes:
 * All goal difference deviations are calculated as actual minus expected (GF − xGF and GA − xGA) on a per-match basis.
 * xGD and GD are averages on a per-match basis.
-* Analysis includes only MLS regular season and playoff matches for clarity.
+* Analysis includes only MLS regular season and playoff matches.
 
 ### Why I analyzed it: 
-  * As an LAFC and soccer fan, analyzing my favorite player's tenure at the club made perfect sense to allow me to showcase my data analysis skills. During his tenure (2018-2023), Carlos Vela played in over 150 MLS matches, winning multiple titles and a championship. My goal was to assess whether or not Carlos Vela had a measurable correlation with LAFC's success. This includes measurements in win percentage, xGF (expected goals for), xGA (expected goals against), and xGD (expected goal difference).
+  * During his tenure (2018-2023), Carlos Vela played in over 150 MLS matches, winning multiple Supporters' Shield titles and an MLS Cup championship. The goal is to assess whether Carlos Vela had a measurable impact on LAFC's success. This includes measurements in win percentage, xGF (expected goals for), xGA (expected goals against), and xGD (expected goal difference).
 
 ### Brief Insight Summary:
   * The 2021 MLS season was the most notable outlier season, with LAFC underperforming relative to their xGF (expected goals for) and xGA (expected goals against) metrics. Underperformance was most prevalent while Vela was on the pitch.
@@ -25,20 +25,20 @@
 <img width="738" height="439" alt="LAFC_Graph#1" src="https://github.com/user-attachments/assets/bbaf3bf4-1620-4848-a665-d07a53ac8f50" />
 
 * **Trend Followers:** LAFC's performance matched underlying metrics during the '18, '19, '22, and '23 seasons.
-* **The "COVID" Year:** 2020 was heavily disrupted due to the COVID-19 pandemic, with LAFC experiencing injuries to key players such as Eddie Segura and Carlos Vela, and players like Diego Rossi missing matches as a result of quarantine protocol.
+* **The "COVID" Year:** 2020 was heavily disrupted due to the COVID-19 pandemic, with LAFC experiencing injuries to key players such as Eddie Segura and Carlos Vela, and players like Diego Rossi missing matches due to quarantine protocols.
 * **The Big Anomaly:** 2021 marked the biggest underperformance in Vela's LAFC career, with a **-0.56 difference** relative to xGD. How much of a role did Carlos Vela's injury-plagued year play?
 
 ### **Carlos Vela's 2021 Season**
  * Poor finishing, unlucky defensive performances, and frequent injuries to key players such as Eduard Atuesta and Eddie Segura marred LAFC's season.
- * Vela was unable to remain healthy throughout the season, frequently missing matches and rarely able to go the full 90 minutes. He ended the season with just 20 games played, with 5 goals and 5 assists, a far cry from his MVP season just two years earlier (36 goals, 11 assists).
+ * Vela was unable to remain healthy throughout the season, frequently missing matches and rarely able to go the full 90 minutes. He ended the season with just 20 games played, with 5 goals and 5 assists, a far cry from his MVP season just two years earlier (36 goals, 11 assists in domestic play).
 
 <img width="730" height="459" alt="LAFC_Graph#2" src="https://github.com/user-attachments/assets/c027b5c9-0bf7-4bc5-a881-8979edfb1877" />
 
 ***A Stark Contrast:** 
-* With Vela on the pitch, LAFC displayed similar underlying metrics to their 2022 championship season, but actual GD results demonstrated substantial underperformance.
+* With Vela on the pitch, LAFC displayed similar underlying metrics to their 2022 championship season, but GD results demonstrated substantial underperformance.
 
 ### The Big Picture:
-* LAFC's 2021 Season, broken down by when Vela either wasn't or was on the pitch:
+* LAFC's 2021 Season, broken down by when Vela was on or off the pitch:
 
 <img width="697" height="460" alt="LAFC_Graph#3" src="https://github.com/user-attachments/assets/b708b32a-237e-4080-9e0c-0bd3f8d35850" />
 
@@ -46,7 +46,7 @@
 * With Vela on the pitch, LAFC had an xGF and xGA of **-0.66** and **0.27** respectively, indicating underperformance in both attacking and defending.
 
 ### Conclusion
-* Vela was plagued by numerous injuries that led to him playing just 59% of LAFC's domestic matches in 2021, compared to 92% of regular season and playoff matches just two seasons earlier (2019).
+* Vela was plagued by numerous injuries that led to him playing just 59% of LAFC's domestic matches in 2021, compared to 92% of regular-season and playoff matches just two seasons earlier (2019).
 
 
 ## 📊 Data Sources
