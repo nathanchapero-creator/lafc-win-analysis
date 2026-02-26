@@ -28,7 +28,7 @@
 <img width="738" height="439" alt="LAFC_Graph#1" src="https://github.com/user-attachments/assets/bbaf3bf4-1620-4848-a665-d07a53ac8f50" />
 
 * **Trend Followers:** LAFC's performance matched underlying metrics during the '18, '19, '22, and '23 seasons.
-* **The "COVID" Year:** 2020 was heavily disrupted due to the COVID-19 pandemic, with LAFC experiencing injuries to key players such as Eddie Segura and Carlos Vela, and players like Diego Rossi missing matches due to quarantine protocols.
+* **The "COVID" Year:** While both 2020 and 2021 showed significant underperformance relative to expected metrics, the 2020 season was heavily impacted by COVID-19 disruptions, including an uneven schedule and tournament-style formats. To reduce structural noise and isolate on-field performance trends, this analysis focuses primarily on the 2021 season, which more closely resembled a standard MLS campaign.
 * **The Big Anomaly:** 2021 marked the biggest underperformance in Vela's LAFC career, with a **-0.56 difference** relative to xGD. How much of a role did Carlos Vela's injury-plagued year play?
 
 ### **Carlos Vela's 2021 Season**
