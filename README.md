@@ -52,6 +52,8 @@
 
 ### Conclusion
 * Vela was plagued by numerous injuries that led to him playing just 59% of LAFC's domestic matches in 2021, compared to 92% of regular-season and playoff matches just two seasons earlier (2019).
+* Notably, LAFC struggled the most during Vela's most inconsistent year, as they experienced a **-0.56** difference between xGD and GD.
+* Broken down further, LAFC's underperformance during the 2021 season was most prevalent while Vela was on the pitch, with a **-0.93** difference between xGD and GD, compared to just a **-0.03** difference.
 
 
 ## 📊 Data Sources
