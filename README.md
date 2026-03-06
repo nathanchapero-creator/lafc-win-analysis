@@ -1,5 +1,8 @@
 # lafc-expected-goals-variance
 
+### General Summary:
+* This project explores performance variance and individual player impact using a relational data model built in Excel and Power Query. By engineering an ETL pipeline to merge 5+ years of disparate team and player datasets, this analysis isolates statistical anomalies and calculates the differential between expected metrics and actual outcomes. The final visualizations highlight systemic underlying strengths that were obscured by top-line results, quantifying the hidden impact of a star player's injury-limited season.
+
 ### What is it?
   * Analysis of Carlos Vela's tenure at Los Angeles Football Club (LAFC), with a special focus on the 2021 MLS season.
   * Does LAFC perform better when Vela plays?
