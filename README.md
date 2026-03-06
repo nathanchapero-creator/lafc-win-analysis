@@ -48,8 +48,8 @@
 
 <img width="697" height="460" alt="LAFC_Graph#3" src="https://github.com/user-attachments/assets/b708b32a-237e-4080-9e0c-0bd3f8d35850" />
 
-* Without Vela on the pitch, LAFC had an xGF and xGA of **+0.03** and **0.06** per game, respectively, indicating that their attack and defense met expectations.
-* With Vela on the pitch, LAFC had an xGF and xGA of **-0.66** and **0.27** respectively, indicating underperformance in both attacking and defending.
+* Without Vela on the pitch, LAFC's goal variance (GF - xGF) was +0.03 and goals against variance (GA - xGA) was +0.06 per game, indicating their attack and defense met expectations.
+* With Vela on the pitch, LAFC's attacking variance (GF - xGF) was -0.66 and their defensive variance (GA - xGA) was +0.27 per game, indicating underperformance in both attacking and defending.
 
 ### Conclusion
 * Vela was plagued by numerous injuries that led to him playing just 59% of LAFC's domestic matches in 2021, compared to 92% of regular-season and playoff matches just two seasons earlier (2019).
