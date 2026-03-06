@@ -113,7 +113,6 @@ Description: Player-level match logs including date, opponent, competition, and 
   **Created Helper Columns:**
   - *Display_Year* - To display season year
   - *Zero_Line_Helper* - Straight line positioned at "0" on X-axis
-  - **
 
   **Carlos Vela match data adjustments:**  
   - Only retained *Minutes_Played*  
