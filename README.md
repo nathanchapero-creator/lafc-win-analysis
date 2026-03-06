@@ -36,6 +36,7 @@
 ### **Carlos Vela's 2021 Season**
  * Poor finishing, unlucky defensive performances, and frequent injuries to key players such as Eduard Atuesta and Eddie Segura marred LAFC's season.
  * Vela was unable to remain healthy throughout the season, limiting his season to just 20 matches played.
+ * LAFC's underlying metrics while Carlos Vela was on the pitch:
 
 <img width="730" height="459" alt="LAFC_Graph#2" src="https://github.com/user-attachments/assets/c027b5c9-0bf7-4bc5-a881-8979edfb1877" />
 
